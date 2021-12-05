@@ -17,7 +17,7 @@ Use Node Package Manager to install dependencies
 ![image](https://user-images.githubusercontent.com/51461957/144760436-78d36337-1015-4c4a-b1c4-869e040e2ac5.png)
 ### Contact:
 If you have any questions, comments or would like to work with me, here is how you can do so:
-GitHub: https://github.com/LazyLizard95
-Email: Silentsnip3@gmail.com
+* GitHub: https://github.com/LazyLizard95
+* Email: Silentsnip3@gmail.com
 
 This project has been created on Sun Dec 05 2021 14:11:41 GMT-0500 (Eastern Standard Time)
