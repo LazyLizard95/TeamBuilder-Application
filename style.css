@@ -1,0 +1,36 @@
+.card {
+    width: 800px;
+    max-width: 20%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px;
+    box-shadow: 0 0 5px 1px;
+  }
+
+.manaName {
+  background-color: green;
+}
+
+.engiName {
+  background-color: orange;
+}
+
+.internName {
+  background-color: cyan;
+}
+/* Mobile first queries */
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
