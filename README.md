@@ -11,7 +11,7 @@ This project aims to assist those in organization of their team by creating card
 ### Installation:
 Use Node Package Manager to install dependencies
 ### Usage:
-
+![image](https://user-images.githubusercontent.com/51461957/144760352-bb46cd64-ddb2-4cc5-aa05-c2930d31444b.png)
 ### Contact:
 If you have any questions, comments or would like to work with me, here is how you can do so:
 GitHub: https://github.com/LazyLizard95
